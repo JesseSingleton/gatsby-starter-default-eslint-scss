@@ -45,12 +45,12 @@ An extension of the default boilerplate which can found [here](https://github.co
 
 ## Plugin information
 
--   **eslint-plugin-sass** more [information](https://www.gatsbyjs.org/packages/gatsby-plugin-sass/?=sas)
+- **eslint-plugin-sass** more [information](https://www.gatsbyjs.org/packages/gatsby-plugin-sass/?=sas)
 
 ## More Gatsby resources
 
--   **Original start boilerplate [here](https://github.com/gatsbyjs/gatsby-starter-default).** Slightly more simple implementation, lacking scss and eslint support.
+- **Original start boilerplate [here](https://github.com/gatsbyjs/gatsby-starter-default).** Slightly more simple implementation, lacking scss and eslint support.
 
--   **Original [documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+- **Original [documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
--   **Gatsby Central [website](https://www.gatsbycentral.com/)** Collection of curated Gatsby information and articles as well as furhter documentation.
+- **Gatsby Central [website](https://www.gatsbycentral.com/)** Collection of curated Gatsby information and articles as well as furhter documentation.
