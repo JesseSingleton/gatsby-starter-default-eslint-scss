@@ -19,7 +19,7 @@ An extension of the default boilerplate which can found [here](https://github.co
 
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
-    ```sh
+    ```shell
     # create a new Gatsby site using the default starter
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default-eslint-scss
     ```
@@ -28,7 +28,7 @@ An extension of the default boilerplate which can found [here](https://github.co
 
     Navigate into your new site’s directory and start it up.
 
-    ```sh
+    ```shell
     cd my-default-starter/
     gatsby develop
     ```
@@ -38,10 +38,9 @@ An extension of the default boilerplate which can found [here](https://github.co
     Your site is now running at `http://localhost:8000`!
 
 ## What's different?
-
 1. **`.eslintrc`** Configuration file for eslint. Based off of the _eslint/recommend_ configuration with support for _react/recommended_ and _prettier/recommended_ **Feel free to add rules that suit your coding style**
 
-2) **`gatsby-plugin-scss`**: A gatsby plugin to allow for scss and sass file support instead of the default css-in-js.
+2. **`gatsby-plugin-scss`**: A gatsby plugin to allow for scss and sass file support instead of the default css-in-js.
 
 ## Plugin information
 
